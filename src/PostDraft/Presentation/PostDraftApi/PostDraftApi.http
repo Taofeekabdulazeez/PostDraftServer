@@ -1,0 +1,6 @@
+@PostDraftApi_HostAddress = http://localhost:5153
+
+GET {{PostDraftApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

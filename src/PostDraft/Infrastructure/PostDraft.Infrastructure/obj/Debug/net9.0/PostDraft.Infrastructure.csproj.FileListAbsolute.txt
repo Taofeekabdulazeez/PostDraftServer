@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Infrastructure.deps.json
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Infrastructure.runtimeconfig.json
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Infrastructure.dll
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Infrastructure.pdb
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Domain.dll
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\bin\Debug\net9.0\PostDraft.Domain.pdb
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraf.4189280B.Up2Date
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.dll
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\refint\PostDraft.Infrastructure.dll
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.pdb
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\PostDraft.Infrastructure.genruntimeconfig.cache
+C:\Users\DELL\Desktop\github\PostDraft\Infrastructure\PostDraft.Infrastructure\obj\Debug\net9.0\ref\PostDraft.Infrastructure.dll
