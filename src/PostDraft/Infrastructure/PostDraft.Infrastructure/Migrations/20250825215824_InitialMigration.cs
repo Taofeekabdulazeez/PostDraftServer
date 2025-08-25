@@ -9,7 +9,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace PostDraft.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialData : Migration
+    public partial class InitialMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -37,8 +37,8 @@ namespace PostDraft.Infrastructure.Migrations
                 columns: new[] { "Id", "Category", "CreatedAt", "Description", "Link", "Title", "UpdatedAt" },
                 values: new object[,]
                 {
-                    { 1, "linkedIn", new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(91), "Description", "https://www.linkedin.com/u/TaofeekAbdulazeez", "How to optimize linkedIn profile", new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(329) },
-                    { 2, "youtube", new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(919), "Description", "https://youtube.com/TaofeekAbdulazeez", "How to monetize your skills", new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(920) }
+                    { 1, "linkedIn", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(2972), "Description", "https://www.linkedin.com/u/TaofeekAbdulazeez", "How to optimize linkedIn profile", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3249) },
+                    { 2, "youtube", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3913), "Description", "https://youtube.com/TaofeekAbdulazeez", "How to monetize your skills", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3914) }
                 });
         }
 

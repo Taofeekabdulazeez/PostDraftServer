@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ajNu3ZErAZA=",
+  "dgSpecHash": "sp5LaXVfYwM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

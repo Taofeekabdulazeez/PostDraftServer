@@ -103,13 +103,13 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.8": {
         "type": "package"
       },
-      "Microsoft.EntityFrameworkCore.Relational/9.0.1": {
+      "Microsoft.EntityFrameworkCore.Relational/9.0.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.1",
-          "Microsoft.Extensions.Caching.Memory": "9.0.1",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.1",
-          "Microsoft.Extensions.Logging": "9.0.1"
+          "Microsoft.EntityFrameworkCore": "9.0.8",
+          "Microsoft.Extensions.Caching.Memory": "9.0.8",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.8",
+          "Microsoft.Extensions.Logging": "9.0.8"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
@@ -164,10 +164,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Abstractions/9.0.1": {
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.1"
+          "Microsoft.Extensions.Primitives": "9.0.8"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
@@ -404,6 +404,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.8",
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.8",
           "Npgsql": "9.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "PostDraft.Domain": "1.0.0"
@@ -532,10 +533,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/9.0.1": {
-      "sha512": "7Iu0h4oevRvH4IwPzmxuIJGYRt55TapoREGlluk75KCO7lenN0+QnzCl6cQDY48uDoxAUpJbpK2xW7o8Ix69dw==",
+    "Microsoft.EntityFrameworkCore.Relational/9.0.8": {
+      "sha512": "OVhfyxiHxMvYpwQ8Jy3YZi4koy6TK5/Q7C1oq3z6db+HEGuu6x9L1BX5zDIdJxxlRePMyO4D8ORiXj/D7+MUqw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/9.0.1",
+      "path": "microsoft.entityframeworkcore.relational/9.0.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -543,7 +544,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.9.0.8.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
@@ -603,10 +604,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration.Abstractions/9.0.1": {
-      "sha512": "+4hfFIY1UjBCXFTTOd+ojlDPq6mep3h5Vq5SYE3Pjucr7dNXmq4S/6P/LoVnZFz2e/5gWp/om4svUFgznfULcA==",
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.8": {
+      "sha512": "yNou2KM35RvzOh4vUFtl2l33rWPvOCoba+nzEDJ+BgD8aOL/jew4WPCibQvntRfOJ2pJU8ARygSMD+pdjvDHuA==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/9.0.1",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -626,7 +627,7 @@
         "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -1016,11 +1017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
       "projectName": "PostDraft.Application",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1041,11 +1042,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj"
+            "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj"
             },
-            "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj"
+            "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj"
             }
           }
         }

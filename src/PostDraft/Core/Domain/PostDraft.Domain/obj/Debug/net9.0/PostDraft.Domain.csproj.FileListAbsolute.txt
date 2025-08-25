@@ -9,3 +9,15 @@ C:\Users\DELL\Desktop\github\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\ne
 C:\Users\DELL\Desktop\github\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\refint\PostDraft.Domain.dll
 C:\Users\DELL\Desktop\github\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.pdb
 C:\Users\DELL\Desktop\github\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\ref\PostDraft.Domain.dll
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\bin\Debug\net9.0\PostDraft.Domain.deps.json
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\bin\Debug\net9.0\PostDraft.Domain.dll
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\bin\Debug\net9.0\PostDraft.Domain.pdb
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.sourcelink.json
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.dll
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\refint\PostDraft.Domain.dll
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\PostDraft.Domain.pdb
+C:\Users\DELL\Desktop\github\PostDraftServer\src\PostDraft\Core\Domain\PostDraft.Domain\obj\Debug\net9.0\ref\PostDraft.Domain.dll

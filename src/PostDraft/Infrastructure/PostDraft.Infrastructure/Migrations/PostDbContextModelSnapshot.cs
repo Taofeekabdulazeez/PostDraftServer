@@ -61,21 +61,21 @@ namespace PostDraft.Infrastructure.Migrations
                         {
                             Id = 1,
                             Category = "linkedIn",
-                            CreatedAt = new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(91),
+                            CreatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(2972),
                             Description = "Description",
                             Link = "https://www.linkedin.com/u/TaofeekAbdulazeez",
                             Title = "How to optimize linkedIn profile",
-                            UpdatedAt = new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(329)
+                            UpdatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3249)
                         },
                         new
                         {
                             Id = 2,
                             Category = "youtube",
-                            CreatedAt = new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(919),
+                            CreatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3913),
                             Description = "Description",
                             Link = "https://youtube.com/TaofeekAbdulazeez",
                             Title = "How to monetize your skills",
-                            UpdatedAt = new DateTime(2025, 8, 21, 16, 36, 32, 718, DateTimeKind.Utc).AddTicks(920)
+                            UpdatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3914)
                         });
                 });
 #pragma warning restore 612, 618
