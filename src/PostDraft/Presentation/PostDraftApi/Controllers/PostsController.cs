@@ -5,23 +5,31 @@ using PostDraft.Domain.Contracts;
 
 namespace PostDraftApi.Controllers
 {
-    //[Route("api/[controller]")]
-    //[ApiController]
-    public class PostsController : ApiController
+    [ApiController]
+    [Route("api/posts")]
+    public class PostsController : BaseController
     {
-        [HttpGet("posts")]
-        public async Task<IActionResult> GetAllPosts()
+        [HttpGet]
+        public async Task<IActionResult> GetAllPosts([FromQuery] string? category )
         {
+            if (!string.IsNullOrEmpty(category) && !category.Equals("all", StringComparison.OrdinalIgnoreCase))
+            {
+                return Ok(await _mediator.Send(new GetPostsByCategoryQuery()
+                {
+                    PostCategory = category.Trim(),
+                }));
+            }
+                
             return Ok(await _mediator.Send(new GetAllPostsQuery() { }));
         }
 
-        [HttpGet("posts/{id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetPostById(int id)
         {
             return Ok(await _mediator.Send(new GetPostByIdQuery { PostId = id }));
         }
 
-        [HttpPost("posts")]
+        [HttpPost]
         public async Task<IActionResult> CreatePost([FromBody] CreatePostRequest data)
         {
             var response = await _mediator.Send(new CreatePostCommand
@@ -32,7 +40,7 @@ namespace PostDraftApi.Controllers
             return Ok(response);
         }
 
-        [HttpPatch("todos/{id}")]
+        [HttpPatch("{id}")]
         public async Task<IActionResult> UpdatePost(int id, [FromBody] UpdatePostRequest data)
         {
             var response = await _mediator.Send(new UpdatePostCommand
@@ -44,7 +52,7 @@ namespace PostDraftApi.Controllers
             return Ok(response);
         }
 
-        [HttpDelete("posts/{id}")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePost(int id)
         {
             return Ok(await _mediator.Send(new DeletePostCommand { Id = id }));

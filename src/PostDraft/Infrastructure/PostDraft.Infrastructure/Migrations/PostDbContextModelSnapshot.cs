@@ -10,7 +10,7 @@ using PostDraft.Infrastructure.Context;
 
 namespace PostDraft.Infrastructure.Migrations
 {
-    [DbContext(typeof(PostDbContext))]
+    [DbContext(typeof(ApplicationDbContext))]
     partial class PostDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -61,21 +61,21 @@ namespace PostDraft.Infrastructure.Migrations
                         {
                             Id = 1,
                             Category = "linkedIn",
-                            CreatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(2972),
+                            CreatedAt = new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(4767),
                             Description = "Description",
                             Link = "https://www.linkedin.com/u/TaofeekAbdulazeez",
                             Title = "How to optimize linkedIn profile",
-                            UpdatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3249)
+                            UpdatedAt = new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(5176)
                         },
                         new
                         {
                             Id = 2,
                             Category = "youtube",
-                            CreatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3913),
+                            CreatedAt = new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(6368),
                             Description = "Description",
                             Link = "https://youtube.com/TaofeekAbdulazeez",
                             Title = "How to monetize your skills",
-                            UpdatedAt = new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3914)
+                            UpdatedAt = new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(6369)
                         });
                 });
 #pragma warning restore 612, 618

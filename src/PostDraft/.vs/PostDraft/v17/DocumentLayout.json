@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\PostDraftApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\presentation\\postdraftapi\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|solutionrelative:presentation\\postdraftapi\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\PostDraftApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\presentation\\postdraftapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|solutionrelative:presentation\\postdraftapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\application\\postdraft.application\\queries\\post\\getpostsbycategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|solutionrelative:core\\application\\postdraft.application\\queries\\post\\getpostsbycategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\application\\postdraft.application\\handlers\\posts\\updateposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|solutionrelative:core\\application\\postdraft.application\\handlers\\posts\\updateposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D2D6A6-B414-47EF-B394-B36E784CC768}|Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\domain\\postdraft.domain\\contracts\\createpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2D6A6-B414-47EF-B394-B36E784CC768}|Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj|solutionrelative:core\\domain\\postdraft.domain\\contracts\\createpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D920C09B-2861-4A76-B3E6-375227A8832E}|Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\infrastructure\\postdraft.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D920C09B-2861-4A76-B3E6-375227A8832E}|Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj|solutionrelative:infrastructure\\postdraft.infrastructure\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\PostDraftApi\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\application\\postdraft.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|solutionrelative:core\\application\\postdraft.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\PostDraftApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Presentation\\PostDraftApi\\PostDraftApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\presentation\\postdraftapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747FF1FD-EE94-4507-894C-4D2A9AC8AB11}|Presentation\\PostDraftApi\\PostDraftApi.csproj|solutionrelative:presentation\\postdraftapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2D6A6-B414-47EF-B394-B36E784CC768}|Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\domain\\postdraft.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2D6A6-B414-47EF-B394-B36E784CC768}|Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj|solutionrelative:core\\domain\\postdraft.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\application\\postdraft.application\\handlers\\posts\\getallpostshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|solutionrelative:core\\application\\postdraft.application\\handlers\\posts\\getallpostshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\core\\application\\postdraft.application\\handlers\\posts\\getpostsbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBD0BA5-7AF0-401A-BE0A-BBF06B1C4A4F}|Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj|solutionrelative:core\\application\\postdraft.application\\handlers\\posts\\getpostsbycategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D920C09B-2861-4A76-B3E6-375227A8832E}|Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj|c:\\users\\dell\\desktop\\github\\postdraft\\infrastructure\\postdraft.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D920C09B-2861-4A76-B3E6-375227A8832E}|Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj|solutionrelative:infrastructure\\postdraft.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostDraft.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T17:34:50.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\PostDraftApi\\Program.cs",
-              "ViewState": "AgIAAAgAAADgzMzMzMwqwA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T15:34:38.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\appsettings.json",
-              "RelativeToolTip": "Presentation\\PostDraftApi\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T16:50:35.789Z",
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\Exceptions\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Presentation\\PostDraftApi\\Exceptions\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:23:29.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PostDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\PostDraft.Infrastructure\\Context\\PostDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "UpdatePostHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\UpdatePostHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\UpdatePostHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\UpdatePostHandler.cs",
+              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\UpdatePostHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T16:06:36.101Z",
+              "WhenOpened": "2025-08-26T16:57:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:32:21.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "CreatePostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\Contracts\\CreatePostRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\PostDraft.Domain\\Contracts\\CreatePostRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\Contracts\\CreatePostRequest.cs",
+              "RelativeToolTip": "Core\\Domain\\PostDraft.Domain\\Contracts\\CreatePostRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T15:46:12.943Z",
+              "WhenOpened": "2025-08-26T17:14:36.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreatePostHandler.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs",
-              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\CreatePostHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAABlPRgAAAAYAAAAAAAAAA==",
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PostDraft.Infrastructure\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Infrastructure\\PostDraft.Infrastructure\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T15:36:01.084Z",
+              "WhenOpened": "2025-08-26T16:10:35.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "Presentation\\PostDraftApi\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetPostsByCategoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Queries\\Post\\GetPostsByCategoryQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Queries\\Post\\GetPostsByCategoryQuery.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Queries\\Post\\GetPostsByCategoryQuery.cs",
+              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Queries\\Post\\GetPostsByCategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T15:34:44.226Z",
+              "WhenOpened": "2025-08-26T16:08:21.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PostDraftApi.http",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\PostDraftApi.http",
-              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\PostDraftApi.http",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Presentation\\PostDraftApi\\PostDraftApi.http",
-              "RelativeToolTip": "Presentation\\PostDraftApi\\PostDraftApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-21T15:37:31.976Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\PostDraftApi\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Presentation\\PostDraftApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\PostDraftApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:43:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\PostDraft.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Core\\Domain\\PostDraft.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:55:44.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:54:25.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPostsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetAllPostsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetAllPostsHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetAllPostsHandler.cs",
+              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetAllPostsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:03:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetPostsByCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetPostsByCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetPostsByCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetPostsByCategoryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\PostDraft.Application\\Handlers\\Posts\\GetPostsByCategoryHandler.cs",
+              "ViewState": "AgIAAAgAAACAmZmZmZkVwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:02:02.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PostDraft.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\PostDraft.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:12:40.414Z",
               "EditorCaption": ""
             }
           ]

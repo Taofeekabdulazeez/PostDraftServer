@@ -1017,11 +1017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
       "projectName": "PostDraft.Application",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\PostDraft.Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Application\\PostDraft.Application\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Application\\PostDraft.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1042,11 +1042,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj"
+            "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Core\\Domain\\PostDraft.Domain\\PostDraft.Domain.csproj"
             },
-            "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraftServer\\src\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj"
+            "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\github\\PostDraft\\Infrastructure\\PostDraft.Infrastructure\\PostDraft.Infrastructure.csproj"
             }
           }
         }

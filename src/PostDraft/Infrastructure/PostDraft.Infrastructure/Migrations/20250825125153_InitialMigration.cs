@@ -37,8 +37,8 @@ namespace PostDraft.Infrastructure.Migrations
                 columns: new[] { "Id", "Category", "CreatedAt", "Description", "Link", "Title", "UpdatedAt" },
                 values: new object[,]
                 {
-                    { 1, "linkedIn", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(2972), "Description", "https://www.linkedin.com/u/TaofeekAbdulazeez", "How to optimize linkedIn profile", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3249) },
-                    { 2, "youtube", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3913), "Description", "https://youtube.com/TaofeekAbdulazeez", "How to monetize your skills", new DateTime(2025, 8, 25, 21, 58, 22, 431, DateTimeKind.Utc).AddTicks(3914) }
+                    { 1, "linkedIn", new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(4767), "Description", "https://www.linkedin.com/u/TaofeekAbdulazeez", "How to optimize linkedIn profile", new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(5176) },
+                    { 2, "youtube", new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(6368), "Description", "https://youtube.com/TaofeekAbdulazeez", "How to monetize your skills", new DateTime(2025, 8, 25, 12, 51, 51, 915, DateTimeKind.Utc).AddTicks(6369) }
                 });
         }
 

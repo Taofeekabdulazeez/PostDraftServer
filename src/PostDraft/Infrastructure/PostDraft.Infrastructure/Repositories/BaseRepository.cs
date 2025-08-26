@@ -5,11 +5,11 @@ using PostDraft.Infrastructure.Interface;
 
 namespace PostDraft.Infrastructure.Repositories
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public class BaseRepository<T> : IBaseRepository<T> where T : class
     {
-        private readonly PostDbContext _context;
+        protected readonly ApplicationDbContext _context;
         private readonly DbSet<T> _dbSet;
-        public Repository(PostDbContext context)
+        public BaseRepository(ApplicationDbContext context)
         {
             _context = context;
             _dbSet = context.Set<T>();
@@ -22,10 +22,9 @@ namespace PostDraft.Infrastructure.Repositories
             return entity;
         }
 
-        public Task<IEnumerable<T>> GetAllAsync()
+        public Task<List<T>> GetAllAsync()
         {
-            //await _dbSet.F;
-            return null!;
+            return _dbSet.ToListAsync();
         }
  
         public async Task<T> DeleteAsync(T entity)
