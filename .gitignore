@@ -7,8 +7,8 @@
 .env
 
 # bin folders
-/bin
-/obj
+bin/
+obj/
 
 **/bin/
 **/obj/
